@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshsingh-123" alt="ashutoshsingh-123" /></a> </p>
 
+- 🔭 I’m currently working on [Maven](https://github.com/AshutoshSingh-123/allAboutMaven)
+
+- 🌱 I’m currently learning **Spring Boot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AshutoshSingh-123/](https://github.com/AshutoshSingh-123/)
+
+- 📫 How to reach me **ashutoshkmrsingh@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashutosh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh singh" height="30" width="40" /></a>
